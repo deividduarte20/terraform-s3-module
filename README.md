@@ -1,4 +1,5 @@
-# terraform-s3-module
+# Este repositório consiste em uso de modulo s3 com arquivos separados (particularmente executado em empresas)
+
 
 ## Para baixar o repositório
 git clone https://github.com/deividduarte20/terraform-s3-module.git
